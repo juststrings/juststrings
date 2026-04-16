@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a **BI Analyst, Backend Engineer, and ML Developer** — and a final-year Electrical & Electronics Engineering student at **Obafemi Awolowo University (OAU)**. I work across the full data stack: from Power BI dashboards and SQL pipelines to FastAPI backends and production ML systems.
+I'm a **BI Analyst, Backend Engineer, and ML Developer** — and a final-year Electronic & Electrical Engineering student at **Obafemi Awolowo University (OAU)**. I work across the full data stack: from Power BI dashboards and SQL pipelines to FastAPI backends and production ML systems.
 
 - 🔭 Currently building **AdForge** (AI-powered ad platform) and **GetJob** (AI-driven job assistant)
 - 🏆 **2nd Place Finals — AISOC 2025** for FraudGuard, a real-time fraud decisioning engine
