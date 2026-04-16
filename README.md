@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulsalam-lawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdulsalam-lawal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdulsalamlawal011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/juststrings"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -190,7 +191,9 @@ Designed and built a functional FM radio transmitter operating at 96 MHz — PCB
 I'm always open to interesting problems — backend architecture, ML systems, or a conversation about fraud patterns in Nigerian fintech.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulsalam-lawal"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdulsalam-lawal/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:abdulsalamlawal011@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdulsalamlawal011-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/juststrings"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
