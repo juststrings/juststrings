@@ -133,11 +133,15 @@ An e-commerce advertising platform with AI-generated ad copy. Clean modular Fast
 
 ---
 
-### 🏥 Al-Khwarizmi — Healthcare AI (Datafest Datathon 2025)
+### 🏥 Afya — Healthcare AI Platform (Datafest Datathon 2025)
+> *Live on Render*
 
-A healthcare data intelligence system featuring predictive models, an admin chatbot, and web scraping pipelines for health data aggregation. Containerized with Docker.
+A healthcare data intelligence platform featuring predictive models, an admin chatbot, and web scraping pipelines for health data aggregation. Containerized with Docker.
 
 **Stack:** `FastAPI` · `Docker` · `SQLite` · `Jupyter` · `Fine-tuning` · `BeautifulSoup`
+
+[![Live App](https://img.shields.io/badge/Live%20App-afyamvp-009688?style=flat-square&logo=render)](https://afyamvp-3vyz.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repo-Al--Khwarizmi-181717?style=flat-square&logo=github)](https://github.com/juststrings/Al-Khwarizmi)
 
 ---
 
