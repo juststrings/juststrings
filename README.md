@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Abdulsalam Lawal 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer · ML Developer · EEE Student @ OAU (Part 4)</b><br/>
-  <i>Building systems that think, decide, and scale — from fraud engines to embedded biometrics.</i>
+  <b>BI Analyst · Backend Engineer · ML Developer</b><br/>
+  <i>Turning raw data into decisions and turning decisions into systems — dashboards, APIs, pipelines, and everything in between.</i>
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ## 🧠 About Me
 
-I'm a final-year **Electrical & Electronics Engineering** student at **Obafemi Awolowo University (OAU)** with a serious obsession for backend systems and applied machine learning. I don't just build models — I build *systems* around them: APIs, pipelines, dashboards, and deployment configs.
+I'm a **BI Analyst, Backend Engineer, and ML Developer** — and a final-year Electrical & Electronics Engineering student at **Obafemi Awolowo University (OAU)**. I work across the full data stack: from Power BI dashboards and SQL pipelines to FastAPI backends and production ML systems.
 
-- 🔭 Currently working on **AdForge** (AI-powered ad platform) and **GetJob** (AI-driven job assistant)
-- 🏆 **AISOC Hackathon Winner** — $750 prize for FraudGuard, a real-time fraud decisioning engine
+- 🔭 Currently building **AdForge** (AI-powered ad platform) and **GetJob** (AI-driven job assistant)
+- 🏆 **2nd Place Finals — AISOC 2025** for FraudGuard, a real-time fraud decisioning engine
 - 📊 Former **Data Analysis Lead @ DSN OAU**
 - 🎓 **Ingressive for Good Scholar** · **DSN Scholar**
 - ⚡ When I'm not pushing code, I'm designing RF circuits or arguing about threshold calibration
@@ -49,7 +49,15 @@ I'm a final-year **Electrical & Electronics Engineering** student at **Obafemi A
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**BI & Visualisation**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Dune](https://img.shields.io/badge/Dune%20Analytics-FF5733?style=flat-square&logo=ethereum&logoColor=white)
 
 **AI / LLM Integration**
 
@@ -64,6 +72,12 @@ I'm a final-year **Electrical & Electronics Engineering** student at **Obafemi A
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
+**Tools & Platforms**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+
 **Hardware & Embedded**
 
 ![ESP32](https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -74,7 +88,7 @@ I'm a final-year **Electrical & Electronics Engineering** student at **Obafemi A
 ## 🚀 Featured Projects
 
 ### 🛡️ FraudGuard — Hybrid Financial Fraud Decisioning Engine
-> **AISOC 2025 Hackathon Winner · $750 Prize**
+> **Top 7 Preliminaries · 2nd Place Finals — AISOC 2025**
 
 A production-grade, real-time fraud engine that solves the "Precision Paradox." Goes beyond a binary classifier with a **Zero-Trust, 3-layer decision architecture**:
 
@@ -158,13 +172,26 @@ Designed and built a functional FM radio transmitter operating at 96 MHz — PCB
 
 | | Achievement |
 |---|---|
-| 🥇 | **1st Place** — DataCamp Data Analysis Competition |
-| 🥈 | **2nd Place** — DataCamp SQL Competition |
-| 🏆 | **AISOC Hackathon Winner** — FraudGuard ($750 prize) |
+| 🥇 | **1st Place** — DataCamp Data Analysis Global Competition 2025 · *200+ participants* |
+| 🥈 | **1st Runner-up** — DataCamp SQL Challenge 2024 · *2,000+ participants* |
+| 🏆 | **Top 7 Preliminaries · 2nd Place Finals** — AISOC 2025 (FraudGuard) |
+| 🥉 | **3rd Place** — Datafest Africa 2024 Datathon |
+| 🥇🥉 | **1st Place Preliminaries · 3rd Place Finals** — Data Community Africa 2024 (Students Performance Analytics) |
 | 🎓 | **Ingressive for Good Scholar** |
 | 🎓 | **DSN (Data Scientists Network) Scholar** |
 | 📊 | **Former Data Analysis Lead** — DSN OAU Chapter |
-| 🧪 | **Datafest Datathon 2025** — Team Al-Khwarizmi |
+
+---
+
+## 📜 Certifications
+
+| | Certification |
+|---|---|
+| 🏅 | **Data Science Associate** — DataCamp *(2025)* |
+| 🏅 | **Data Analyst Associate** — DataCamp *(2024)* |
+| 🏅 | **SQL Associate** — DataCamp *(2024)* |
+| 🏅 | **Power BI Data Analyst Associate** — Microsoft *(2022)* |
+| 🏅 | **Google Data Analytics Certificate** — Coursera / Google *(2022)* |
 
 ---
 
@@ -192,7 +219,7 @@ Designed and built a functional FM radio transmitter operating at 96 MHz — PCB
 
 ## 📬 Get In Touch
 
-I'm always open to interesting problems — backend architecture, ML systems, or a conversation about fraud patterns in Nigerian fintech.
+I'm always open to interesting problems — BI dashboards, backend architecture, ML systems, or a conversation about fraud patterns in Nigerian fintech.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulsalam-lawal/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
