@@ -186,16 +186,80 @@ Designed and built a functional FM radio transmitter operating at 96 MHz — PCB
 
 ---
 
-### 📊 Data Analysis Portfolio
+## 📊 Data & BI Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| [Air Quality — Beijing](https://github.com/juststrings/Air-Quality---Beijing-) | Pollution trend analysis across Beijing stations | Python, Pandas, Matplotlib |
-| [Airline Delay Analysis](https://github.com/juststrings/Airline-Delay) | Root cause analysis of US flight delays | Python, Pandas |
-| [Haulage Analysis](https://github.com/juststrings/Haulage-Analysis) | Logistics & route efficiency insights | Python, Excel |
-| [Senegal Vulnerability Dashboard](https://github.com/juststrings/Senegal-Vulnerability-Resilience-Monitoring-Dashboard) | Resilience monitoring across regions | Python, Power BI |
-| [Covid Dashboard](https://github.com/juststrings/Covid-dashboard-Excel) | COVID-19 trend tracking | Excel |
-| [Customer Report Services](https://github.com/juststrings/Customer-Report-Services) | Customer analytics pipeline | Python, SQL |
+### 🎓 Providus Academic Intelligence — Predictive Modeling for Student Success
+
+Predictive analytics system to combat mass failure in national exams (JAMB/UTME). Built an Early Warning System that segments students into "Safe," "Borderline," and "At-Risk" categories using supervised ML on demographic and academic variables.
+
+- 50% of 2024 UTME candidates scored below 200 — this system targets that crisis
+- Feature engineering on study habits, mock scores, attendance, and demographics
+- Risk stratification enabling efficient tutoring resource allocation
+- Actionable roadmap delivered to stakeholders with statistical evidence
+
+**Stack:** `Python (Scikit-learn, Pandas)` · `Power BI` · `Regression/Classification`
+
+[![Power BI Dashboard](https://img.shields.io/badge/Live%20Dashboard-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiODIyMWRiNjgtNGRkNi00MzZkLWEwYzAtM2YzNjg1NDJhYTIwIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=5fcd27ec71f28f944cd2)
+
+---
+
+### 📡 TelePredict — Customer Churn Prediction & Retention Engine
+
+Full-stack churn prediction dashboard scoring 20,000 telecom subscribers. Identified 10,389 high-risk customers and profiled behavioral signals for proactive retention strategy.
+
+- Revealed that "High" credit rating customers show significant churn intent
+- Geographic hotspot analysis (e.g., NYC-BRO-917 showing higher churn density)
+- Mapped high-value churners: customers who pay and use a lot but are at risk
+- Hardware obsolescence (no Headset Web Capability) flagged as a churn driver
+
+**Stack:** `Python (Scikit-learn, XGBoost, Random Forest)` · `Power BI` · `Microsoft Fabric`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Fabric-024DFD?style=flat-square&logo=microsoft&logoColor=white)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNDVjZjkyZjYtYjBmNS00ZTA3LWFlMmEtMjE1MjQ0ZTdlMjMwIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
+---
+
+### 🌾 AgriFin — Credit Readiness Framework for Rural Nigeria
+
+Engineered a Community Credit Readiness Score to tackle financial exclusion among Nigerian smallholder farmers. Only 27% of rural adults have formal financial access, despite agriculture employing 35% of Nigeria's workforce.
+
+- Composite metric synthesizing electricity access, education, and mobile penetration
+- Geospatial segmentation identifying high-readiness but low-access "hotspots"
+- Multivariate analysis on demographics vs. formal loan uptake
+- Data-backed policy recommendations for infrastructure interventions
+
+**Stack:** `Python (Pandas, NumPy)` · `Power BI` · `Composite Indexing` · `Correlation Analysis`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Fabric-024DFD?style=flat-square&logo=microsoft&logoColor=white)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTlhYTAwMDgtZGVkOS00NTEzLWE0ZjktMzM4Y2Y5ZWE2MTg0IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
+---
+
+### 🏛️ Fiscal Insight — Nigeria FAAC Revenue Allocation Analysis (2007–2024)
+
+Longitudinal fiscal dashboard tracking ₦42 Trillion+ in government fund disbursements over 17 years. Demystifies Nigeria's complex federal allocation formula for citizens and analysts.
+
+- Cleaned and appended 200+ monthly datasets (Jan 2007 – May 2024)
+- Choropleth map revealing South-South as highest beneficiary (13% derivation policy)
+- Time-series capturing 2016 recession dip and 2024 post-subsidy revenue spike
+- Clarifies statutory breakdown: States 26.72% vs LGs 20.60%
+
+**Stack:** `Power BI (Shape Maps, Hierarchical Bar Charts)` · `Data Engineering` · `Public Finance`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Fabric-024DFD?style=flat-square&logo=microsoft&logoColor=white)](https://app.fabric.microsoft.com/view?r=eyJrIjoiOTBkY2I1NjUtYzlhOC00YTAwLThlMmEtZWQ1NTRkYzMyYmM2IiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
+
+---
+
+### 🏥 Afya BI — Nigerian Healthcare Intelligence System
+
+Comprehensive healthcare analytics platform synthesizing data from 34,000+ health facilities, WorldPop demographic estimates, and NCDC disease reports. Features four analytical modules: Overview, Services, Diseases (Lassa Fever tracking), and Advice (algorithmic recommendations).
+
+- Geospatial facility distribution vs. population density analysis
+- Lassa Fever incidence, seasonality, and Case Fatality Rate (CFR) tracking
+- Service tier readiness scores to identify coverage gaps
+- Algorithmic health system strengthening recommendations
+
+**Stack:** `Python` · `SQL` · `Power BI` · `DAX` · `WorldPop` · `NCDC data`
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Fabric-024DFD?style=flat-square&logo=microsoft&logoColor=white)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmZmODc5NWEtZWIxNC00YzdlLTlmNTktZTYyZTlmMDcyZmNiIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9)
 
 ---
 
