@@ -92,7 +92,7 @@ A production-grade, real-time fraud engine that solves the "Precision Paradox." 
 ---
 
 ### 💼 GetJob — AI-Powered Job Application Assistant
-> *In Development*
+> *Live on Render*
 
 A full-stack platform that automates the job hunt. Parses CVs and job listings, generates tailored cover letters, and assists with applications end-to-end.
 
@@ -103,15 +103,19 @@ A full-stack platform that automates the job hunt. Parses CVs and job listings, 
 
 **Stack:** `FastAPI` · `PostgreSQL` · `Claude API` · `OpenAI` · `Playwright` · `pdfplumber` · `python-docx`
 
+[![Live App](https://img.shields.io/badge/Live%20App-getjob--frontend-009688?style=flat-square&logo=render)](https://getjob-frontend-v46f.onrender.com/)
+
 ---
 
 ### 📣 AdForge — AI-Powered Ad Platform
-> *In Development*
+> *Live on Render*
 
 An e-commerce advertising platform with AI-generated ad copy. Clean modular FastAPI architecture with Google Gemini integration.
 
 **Stack:** `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Google Gemini` · `JWT` · `Render`
 **Structure:** `app/api` · `app/core` · `app/db` · `app/modules`
+
+[![Live App](https://img.shields.io/badge/Live%20App-adforge--frontend-009688?style=flat-square&logo=render)](https://adforge-frontend.onrender.com/)
 
 ---
 
