@@ -153,6 +153,33 @@ A tamper-resistant electronic voting system using **ESP32-CAM** for facial recog
 
 ---
 
+### 🔐 Biometric Lock System
+
+A hardware security system built around the **ESP32-WROOM-32**, combining multiple input methods for robust access control.
+
+- Fingerprint sensor authentication with OLED display feedback
+- 4×4 keypad input and relay-controlled electronic lock
+- Buzzer alerts for failed attempts
+- 12V adapter power supply with **LM7805 voltage regulation**
+- Designed and simulated in **Proteus Design Suite**
+
+**Stack:** `ESP32-WROOM-32` · `C/C++` · `Proteus` · `Embedded Systems` · `Circuit Design`
+
+---
+
+### 💡 Hybrid Smart Lighting System
+
+An IoT lighting solution integrating manual control and voice/smartphone automation for measurable energy savings.
+
+- **NodeMCU ESP8266** + **Sinric Pro** for WiFi and voice control via smartphone
+- **IFTTT** pipeline converts voice commands into text instructions
+- OLED display for real-time status feedback; switching circuit for bulb control
+- **Results:** Monthly energy consumption reduced from 92.4 kWh to 52–80 kWh (**up to 43% savings**), user satisfaction up from 75% to 86.5%, response time under 1 second
+
+**Stack:** `NodeMCU ESP8266` · `C/C++` · `Sinric Pro` · `IFTTT` · `IoT` · `Circuit Design`
+
+---
+
 ### 📻 96 MHz FM Transmitter
 
 Designed and built a functional FM radio transmitter operating at 96 MHz — PCB design, RF circuit analysis, frequency tuning. Where EEE meets engineering fundamentals.
