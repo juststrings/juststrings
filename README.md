@@ -17,7 +17,7 @@
 
 I'm a **BI Analyst, Backend Engineer, and ML Developer** — and a final-year Electronic & Electrical Engineering student at **Obafemi Awolowo University (OAU)**. I work across the full data stack: from Power BI dashboards and SQL pipelines to FastAPI backends and production ML systems.
 
-- 🔭 Currently building **AdForge** (AI-powered ad platform) and **GetJob** (AI-driven job assistant)
+- 🔭 Currently building **Arziki** (NGX Telegram portfolio manager) and **NaijaTaste AI** (Nigerian restaurant intelligence)
 - 🏆 **2nd Place Finals — AISOC 2025** for FraudGuard, a real-time fraud decisioning engine
 - 📊 Former **Data Analysis Lead @ DSN OAU**
 - 🎓 **Ingressive for Good Scholar** · **DSN Scholar**
@@ -142,6 +142,40 @@ A healthcare data intelligence platform featuring predictive models, an admin ch
 
 [![Live App](https://img.shields.io/badge/Live%20App-afyamvp-009688?style=flat-square&logo=render)](https://afyamvp-3vyz.onrender.com/)
 [![Repo](https://img.shields.io/badge/Repo-Al--Khwarizmi-181717?style=flat-square&logo=github)](https://github.com/juststrings/Al-Khwarizmi)
+
+---
+
+### 🍛 NaijaTaste AI — Nigerian Restaurant Intelligence & Review Simulation
+> **DSN × Bluechip Technologies LLM Agent Challenge, Hackathon 3.0**
+
+An intelligent Nigerian user behaviour modelling and recommendation system powered by a shared **Nigerian Persona Engine** — it understands how Nigerians write, what they value, and what they will choose next.
+
+- **Task A — Review Simulator:** Predicts how any user would review a restaurant — star rating, tone, and authentic Nigerian Pidgin English copy, with an implicit learning engine that silently improves from your behaviour (save, regenerate, copy, adjust)
+- **Task B — Recommendation Engine:** Recommends real Nigerian restaurants ranked by predicted preference, grounded in GPS-accurate Google Places data (5km radius from your actual location)
+- WhatsApp bot (Twilio), voice input, and multilingual support (EN, YO, HA, IG, PCM) — no setup, no settings page
+
+**Stack:** `FastAPI` · `Next.js 15` · `PostgreSQL` · `Gemini 2.5 Flash` · `Google Places API` · `Twilio` · `Render`
+**Key Stats:** NDCG@10: 0.8675 · Hit Rate@5: 100% · Pidgin Usage: 100% · 24-attempt LLM rotation (6 keys × 4 models)
+
+[![Live App](https://img.shields.io/badge/Live%20App-naijataste.onrender.com-009688?style=flat-square&logo=render)](https://naijataste.onrender.com)
+[![API Docs](https://img.shields.io/badge/Docs-Mintlify-000000?style=flat-square&logo=mintlify&logoColor=white)](https://trailblazer.mintlify.app/introduction)
+[![Repo](https://img.shields.io/badge/Repo-naijataste--ai-181717?style=flat-square&logo=github)](https://github.com/juststrings/naijataste-ai)
+
+---
+
+### 📈 Arziki — NGX Portfolio Manager (Telegram-native)
+
+**Arziki** (Hausa: *wealth*) is a Telegram-native portfolio manager for Nigerian Stock Exchange (NGX) holdings. Talk to it as Ziki — [@Arzikibot](https://t.me/Arzikibot). Log trades in plain language. Get a daily P&L digest after market close. Set price targets and stop-losses that alert you within 30 minutes of being crossed — even while the app is asleep.
+
+- **NGX-first** — the ±10% daily price band, WAT trading hours, T+2 settlement, and the Lotus Islamic Index are built in, not bolted on
+- **Multi-LLM routing** — Claude, Gemini, Cerebras, and Groq each assigned to the task they handle best, with full fallback chains so no single quota exhaustion kills the bot
+- **Halal-aware** — Phase 1 Lotus Islamic Index compliance screening live; AAOIFI financial ratio screen in Phase 2
+- **$0 infrastructure** — Render free web service, Neon free Postgres, GitHub Actions for all scheduling
+
+**Stack:** `FastAPI` · `Python 3.12` · `PostgreSQL (Neon)` · `python-telegram-bot` · `Claude Haiku` · `Gemini Flash` · `Groq` · `Cerebras` · `GitHub Actions`
+
+[![Telegram Bot](https://img.shields.io/badge/Telegram-%40Arzikibot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Arzikibot)
+[![Repo](https://img.shields.io/badge/Repo-Arziki-181717?style=flat-square&logo=github)](https://github.com/juststrings/Arziki)
 
 ---
 
