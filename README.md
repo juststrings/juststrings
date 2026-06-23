@@ -17,7 +17,7 @@
 
 I'm a **BI Analyst, Backend Engineer, and ML Developer** — and a final-year Electronic & Electrical Engineering student at **Obafemi Awolowo University (OAU)**. I work across the full data stack: from Power BI dashboards and SQL pipelines to FastAPI backends and production ML systems.
 
-- 🔭 Currently building **Arziki** (NGX Telegram portfolio manager) and **NaijaTaste AI** (Nigerian restaurant intelligence)
+- 🔭 Currently building **NaijaTaste AI** (Nigerian restaurant intelligence) and other things in silence
 - 🏆 **2nd Place Finals — AISOC 2025** for FraudGuard, a real-time fraud decisioning engine
 - 📊 Former **Data Analysis Lead @ DSN OAU**
 - 🎓 **Ingressive for Good Scholar** · **DSN Scholar**
@@ -160,22 +160,6 @@ An intelligent Nigerian user behaviour modelling and recommendation system power
 [![Live App](https://img.shields.io/badge/Live%20App-naijataste.onrender.com-009688?style=flat-square&logo=render)](https://naijataste.onrender.com)
 [![API Docs](https://img.shields.io/badge/Docs-Mintlify-000000?style=flat-square&logo=mintlify&logoColor=white)](https://trailblazer.mintlify.app/introduction)
 [![Repo](https://img.shields.io/badge/Repo-naijataste--ai-181717?style=flat-square&logo=github)](https://github.com/juststrings/naijataste-ai)
-
----
-
-### 📈 Arziki — NGX Portfolio Manager (Telegram-native)
-
-**Arziki** (Hausa: *wealth*) is a Telegram-native portfolio manager for Nigerian Stock Exchange (NGX) holdings. Talk to it as Ziki — [@Arzikibot](https://t.me/Arzikibot). Log trades in plain language. Get a daily P&L digest after market close. Set price targets and stop-losses that alert you within 30 minutes of being crossed — even while the app is asleep.
-
-- **NGX-first** — the ±10% daily price band, WAT trading hours, T+2 settlement, and the Lotus Islamic Index are built in, not bolted on
-- **Multi-LLM routing** — Claude, Gemini, Cerebras, and Groq each assigned to the task they handle best, with full fallback chains so no single quota exhaustion kills the bot
-- **Halal-aware** — Phase 1 Lotus Islamic Index compliance screening live; AAOIFI financial ratio screen in Phase 2
-- **$0 infrastructure** — Render free web service, Neon free Postgres, GitHub Actions for all scheduling
-
-**Stack:** `FastAPI` · `Python 3.12` · `PostgreSQL (Neon)` · `python-telegram-bot` · `Claude Haiku` · `Gemini Flash` · `Groq` · `Cerebras` · `GitHub Actions`
-
-[![Telegram Bot](https://img.shields.io/badge/Telegram-%40Arzikibot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Arzikibot)
-[![Repo](https://img.shields.io/badge/Repo-Arziki-181717?style=flat-square&logo=github)](https://github.com/juststrings/Arziki)
 
 ---
 
